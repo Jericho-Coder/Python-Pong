@@ -4,7 +4,7 @@ import turtle
 # Set up window
 win = turtle.Screen()
 win.setup(width=600, height=800)
-win.title("Tetris byy Jericho Bondi")
+win.title("Tetris by Jericho Bondi")
 win.bgpic("Tetris.gif")
 win.bgcolor("black")
 
